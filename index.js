@@ -4,7 +4,7 @@ const fs = require('fs');
 const server = http.createServer((req, res) => {
   const { method } = req;
 
-    // const searchParams = currentUrl.searchParams;
+  // const searchParams = currentUrl.searchParams;
 
   if (method === 'GET' && (req.url === '/' || req.url === '')) {
     res.writeHead(200, { 'Content-Type': 'text/html' });
