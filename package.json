@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/Kingjosh007/node-basic-routing-no-framework.git"
   },
-  "keywords": ["NodeJs", "Node", "Express", "Routing", "Basic", "No Framework"],
+  "keywords": [
+    "NodeJs",
+    "Node",
+    "Express",
+    "Routing",
+    "Basic",
+    "No Framework"
+  ],
   "author": {
     "name": "King Josaphat Chewa",
     "email": "kingjochewa2007@gmail.com",
