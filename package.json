@@ -1,0 +1,24 @@
+{
+  "name": "node-basic-routing-no-framework",
+  "version": "1.0.0",
+  "description": "Just a simple NodeJS server (no Express, no framework) that listens on port 8080 and serves several html pages: index, about, contact-me and 404.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingjosh007/node-basic-routing-no-framework.git"
+  },
+  "keywords": ["NodeJs", "Node", "Express", "Routing", "Basic", "No Framework"],
+  "author": {
+    "name": "King Josaphat Chewa",
+    "email": "kingjochewa2007@gmail.com",
+    "url": "https://github.com/Kingjosh007"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kingjosh007/node-basic-routing-no-framework/issues"
+  },
+  "homepage": "https://github.com/Kingjosh007/node-basic-routing-no-framework#readme"
+}
